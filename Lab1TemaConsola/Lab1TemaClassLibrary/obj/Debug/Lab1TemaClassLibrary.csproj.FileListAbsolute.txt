@@ -1,0 +1,10 @@
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaClassLibrary\bin\Debug\Lab1TemaClassLibrary.dll
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaClassLibrary\bin\Debug\Lab1TemaClassLibrary.pdb
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaClassLibrary\obj\Debug\Lab1TemaClassLibrary.dll
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaClassLibrary\obj\Debug\Lab1TemaClassLibrary.pdb
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaClassLibrary\obj\Debug\Lab1TemaClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaClassLibrary\bin\Debug\Lab1TemaClassLibrary.dll
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaClassLibrary\bin\Debug\Lab1TemaClassLibrary.pdb
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaClassLibrary\obj\Debug\Lab1TemaClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaClassLibrary\obj\Debug\Lab1TemaClassLibrary.dll
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaClassLibrary\obj\Debug\Lab1TemaClassLibrary.pdb

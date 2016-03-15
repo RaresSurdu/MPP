@@ -1,0 +1,22 @@
+c:\users\rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaConsola.exe.config
+c:\users\rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaConsola.exe
+c:\users\rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaConsola.pdb
+c:\users\rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaConsola\obj\Debug\Lab1TemaConsola.csprojResolveAssemblyReference.cache
+c:\users\rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaConsola\obj\Debug\Lab1TemaConsola.exe
+c:\users\rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaConsola\obj\Debug\Lab1TemaConsola.pdb
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaConsola.exe.config
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaConsola\obj\Debug\Lab1TemaConsola.exe
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaConsola\obj\Debug\Lab1TemaConsola.pdb
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaConsola.exe
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaConsola.pdb
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaConsola\obj\Debug\Lab1TemaConsola.csprojResolveAssemblyReference.cache
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaClassLibrary.dll
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaClassLibrary.pdb
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaConsola.exe.config
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaConsola\obj\Debug\Lab1TemaConsola.exe
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaConsola\obj\Debug\Lab1TemaConsola.pdb
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaConsola.exe
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaConsola.pdb
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaClassLibrary.dll
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaConsola\bin\Debug\Lab1TemaClassLibrary.pdb
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaConsola\obj\Debug\Lab1TemaConsola.csprojResolveAssemblyReference.cache

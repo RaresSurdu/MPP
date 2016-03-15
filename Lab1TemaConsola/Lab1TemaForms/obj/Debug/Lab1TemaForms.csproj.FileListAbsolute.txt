@@ -1,0 +1,31 @@
+C:\Users\Rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaForms.exe.config
+C:\Users\Rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaForms.exe
+C:\Users\Rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaForms.pdb
+C:\Users\Rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.csprojResolveAssemblyReference.cache
+C:\Users\Rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.Form1.resources
+C:\Users\Rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.Properties.Resources.resources
+C:\Users\Rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.csproj.GenerateResource.Cache
+C:\Users\Rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.exe
+C:\Users\Rares\documents\visual studio 2015\Projects\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.pdb
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaForms.exe.config
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.exe
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.pdb
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaForms.exe
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaForms.pdb
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.csprojResolveAssemblyReference.cache
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.Form1.resources
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.Properties.Resources.resources
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.csproj.GenerateResource.Cache
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaClassLibrary.dll
+D:\!Downloads\2016 - Februarie\Lab1TemaConsola\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaClassLibrary.pdb
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaForms.exe.config
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.exe
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.pdb
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaForms.exe
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaForms.pdb
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaClassLibrary.dll
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\bin\Debug\Lab1TemaClassLibrary.pdb
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.csprojResolveAssemblyReference.cache
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.Form1.resources
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.Properties.Resources.resources
+C:\Users\Rares\Desktop\Lab1TemaConsola\Lab1TemaForms\obj\Debug\Lab1TemaForms.csproj.GenerateResource.Cache
